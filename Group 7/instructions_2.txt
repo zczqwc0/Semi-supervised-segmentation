@@ -1,0 +1,1 @@
+This is an issue we faced when submitting. We didn't have time to edit. The model weights are submitted seperatly. Please download them and place them inside the folder saved_models if you want to test the models 
